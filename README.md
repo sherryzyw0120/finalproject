@@ -1,4 +1,5 @@
-# bst260project-template
+- # bst260project-template
++ # finalproject
 
 Instructions and template for projects for 2026 HSPH BST260
 
