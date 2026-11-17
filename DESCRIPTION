@@ -11,7 +11,7 @@ Description: This package hosts my BST260 final project. It documents the
     on the variables of interest. It states my investigative objectives and
     reports findings and limitations.
 Depends: R (>= 4.5.0)
-Suggests: knitr, testthat, rmarkdown, pkgdown
+Suggests: knitr, testthat, rmarkdown, pkgdown, quarto
 License: Artistic-2.0
 VignetteBuilder: quarto
 Encoding: UTF-8
