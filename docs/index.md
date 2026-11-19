@@ -1,17 +1,20 @@
 # finalproject
 
-Instructions and template for projects for 2026 HSPH BST260
+This repository contains my final project for BST260 (Fall 2026).
 
-Your project will be a working GitHub pages site that presents your
-interpretation of features of public health datasets.
+The project includes two analyses using public health datasets:
 
-Please see
-[instructions](https://vjcitn.github.io/bst260project-template/articles/instructions.html)
-to set up the infrastructure for your project and to learn about
-available datasets
+1.  **Background-check laws and firearm deaths:** Examining whether
+    restrictive state background-check laws are associated with changes
+    in firearm death rates using RAND firearm legislation data and CDC
+    mortality data.
 
-Please see [project suggestion
-text](https://vjcitn.github.io/bst260project-template/articles/stubs.html)
-for some suggestions of how you might proceed with project work on
-selected datasets. More content will be added to this page in the near
-future.
+2.  **Outbreak severity by transmission mode:** Exploring whether
+    foodborne, waterborne, and person-to-person outbreaks differ in
+    hospitalization rates using CDC outbreak data.
+
+The project includes data cleaning, descriptive statistics, statistical
+analyses, and visualizations. Results and limitations will be documented
+in separate vignettes.
+
+**Project website:** <https://sherryzyw0120.github.io/finalproject/>
